@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer with a focus on the MERN stack. Currently pursuing a Bachelor's degree in Computer Science and Data Science, I'm constantly learning and exploring new technologies. My journey in software development is driven by a love for creating dynamic and responsive web applications that make a difference.
+I'm a passionate Full Stack Developer with a focus on the MERN stack. With a Bachelor's degree in Computer Science and Data Science, I'm constantly learning and exploring new technologies. My journey in software development is driven by a love for creating dynamic and responsive web applications that make a difference.
 
 - 📧 **Email:** arzankhan994@gmail.com
 - 📅 **Date of Birth:** 12th March 2002

@@ -122,7 +122,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arzan-kha
 
 📧 Email: arzankhan994@gmail.com  
 🌐 LinkedIn: [Khan Mohammed Arzan Arshad](https://www.linkedin.com/in/arzan-khan-9a9b611ba/1)  
-📁 GitHub: [ArmaanKT](https://github.com/Arzan101)  
+📁 GitHub: [Arzan101](https://github.com/Arzan101)  
 
 ---
 

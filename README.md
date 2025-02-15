@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer with a focus on the MERN stack. With a Bac
 - 📅 **Date of Birth:** 12th March 2002
 - 🚀 **Software Developer | Full Stack Engineer | Tech Enthusiast**
 
-🌐 **Location**: Mumbai, India 🇮🇳
+🌐 **Location**: Dublin, Ireland
 
 🔧 **Skills**: JavaScript, Python, React.js, Node.js, MongoDB, Git, Flutter, Machine Learning
 
